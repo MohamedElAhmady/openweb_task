@@ -10,7 +10,7 @@ app.controller("myController", function($scope, $http) {
 	function getEmployeesData() {
 		$http({
 			method : 'GET',
-			url : 'http://localhost:37561/api/employees/'
+			url : 'http://localhost:45541/api/employees/'
 		}).then(function successCallback(response) {
 			$scope.employees = response.data;
 		}, function errorCallback(response) {

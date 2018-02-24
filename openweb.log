@@ -1,0 +1,10 @@
+2018-02-24 19:51:34 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 2526 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-24 19:51:34 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-24 19:51:34 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-24 19:52:14 [main] INFO  com.openweb.app.WebAppLauncher - Started WebAppLauncher in 45.204 seconds (JVM running for 49.05)
+2018-02-24 19:53:37 [http-nio-auto-1-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 19:53:37 [http-nio-auto-1-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 19:53:46 [http-nio-auto-1-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 19:53:46 [http-nio-auto-1-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 19:53:47 [http-nio-auto-1-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 19:53:47 [http-nio-auto-1-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
