@@ -9,7 +9,12 @@ import com.openweb.domainobject.Employee;
 
 public class EmployeeMapper {
 
-	public static EmployeeDTO makeCarDTO(Employee employee) {
+	/**
+	 * A method to make a DTO from the DO
+	 * @param employee
+	 * @return DTO
+	 */
+	public static EmployeeDTO makeEmployeeDTO(Employee employee) {
 
 		EmployeeDTO.EmployeeDTOBuilder employeeDTOBuilder = EmployeeDTO.newBuilder()
 				.setName(employee.getName())
@@ -20,8 +25,13 @@ public class EmployeeMapper {
 		return employeeDTOBuilder.createEmployeeDTO();
 	}
 
+	/***
+	 * 
+	 * @param employees
+	 * @return List of employee DTOs
+	 */
 	public static List<EmployeeDTO> makeEmployeeDTOList(Collection<Employee> employees) {
-		return employees.stream().map(EmployeeMapper::makeCarDTO).collect(Collectors.toList());
+		return employees.stream().map(EmployeeMapper::makeEmployeeDTO).collect(Collectors.toList());
 	}
 
 }

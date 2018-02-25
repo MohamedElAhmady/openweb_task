@@ -3,10 +3,10 @@ package com.openweb.util;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.URL;
+
 import org.springframework.stereotype.Service;
 
 import com.google.gson.Gson;
-import com.openweb.domainobject.Employees;
 
 /**
  * @author by Mohamed
