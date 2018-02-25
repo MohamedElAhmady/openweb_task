@@ -40,8 +40,7 @@
 					<td>{{item.name}}</td>
 					<td>{{item.role}}</td>
 					<td>{{item.skillset}}</td>
-					<td><img src={{item.profileImageURL}} alt="profile picture"
-						class="image"></td>
+					<td><img ng-src="{{item.profileImageURL}}" alt="profile picture" class="image"></td>
 				</tr>
 			</tbody>
 		</table>

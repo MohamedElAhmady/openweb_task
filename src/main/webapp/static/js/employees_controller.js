@@ -10,11 +10,11 @@ app.controller("myController", function($scope, $http) {
 	function getEmployeesData() {
 		$http({
 			method : 'GET',
-			url : 'http://localhost:45541/api/employees/'
+			url : 'http://localhost:8080/api/employees/'
 		}).then(function successCallback(response) {
 			$scope.employees = response.data;
 		}, function errorCallback(response) {
-			console.log(response.statusText);
+			console.log("An error ocurred while calling the service");
 		});
 	}
 

@@ -8,3 +8,1104 @@
 2018-02-24 19:53:46 [http-nio-auto-1-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
 2018-02-24 19:53:47 [http-nio-auto-1-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
 2018-02-24 19:53:47 [http-nio-auto-1-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 19:56:24 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 2704 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-24 19:56:24 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-24 19:56:24 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-24 19:56:38 [main] INFO  com.openweb.app.WebAppLauncher - Started WebAppLauncher in 16.689 seconds (JVM running for 18.097)
+2018-02-24 19:57:55 [http-nio-auto-1-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 19:57:55 [http-nio-auto-1-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 19:58:54 [http-nio-auto-1-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 19:58:54 [http-nio-auto-1-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 19:59:15 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 2841 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-24 19:59:15 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-24 19:59:15 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-24 19:59:49 [main] INFO  com.openweb.app.WebAppLauncher - Started WebAppLauncher in 38.908 seconds (JVM running for 41.9)
+2018-02-24 20:00:30 [http-nio-auto-1-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:00:30 [http-nio-auto-1-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:00:36 [http-nio-auto-1-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:00:36 [http-nio-auto-1-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:00:36 [http-nio-auto-1-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:00:36 [http-nio-auto-1-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:00:36 [http-nio-auto-1-exec-9] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:00:36 [http-nio-auto-1-exec-9] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:21:07 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 3402 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-24 20:21:07 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-24 20:21:07 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-24 20:21:12 [main] INFO  com.openweb.app.WebAppLauncher - Started WebAppLauncher in 5.364 seconds (JVM running for 5.77)
+2018-02-24 20:28:06 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:28:06 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:28:08 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:28:08 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:28:08 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:28:08 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:29:04 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:29:04 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:29:05 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:29:05 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:29:05 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:29:05 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:31:35 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 3783 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-24 20:31:35 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-24 20:31:35 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-24 20:31:40 [main] INFO  com.openweb.app.WebAppLauncher - Started WebAppLauncher in 4.96 seconds (JVM running for 5.454)
+2018-02-24 20:31:50 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:31:50 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:31:51 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:31:51 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:31:51 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:31:51 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:31:52 [http-nio-8081-exec-5] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:31:52 [http-nio-8081-exec-5] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:32:08 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:32:08 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:32:46 [http-nio-8081-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:32:46 [http-nio-8081-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:32:46 [http-nio-8081-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:32:46 [http-nio-8081-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:32:46 [http-nio-8081-exec-7] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:32:46 [http-nio-8081-exec-7] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:32:52 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:32:52 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:32:53 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:32:53 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:32:53 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:32:53 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:32:53 [http-nio-8081-exec-9] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:32:53 [http-nio-8081-exec-9] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:43:33 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:43:33 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:44:11 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:44:11 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:44:11 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:44:11 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:44:11 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:44:11 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:44:11 [http-nio-8081-exec-8] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:44:11 [http-nio-8081-exec-8] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:53:12 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:53:12 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:53:13 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:53:13 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:53:13 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:53:13 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:53:13 [http-nio-8081-exec-5] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:53:13 [http-nio-8081-exec-5] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:53:25 [http-nio-8081-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:53:25 [http-nio-8081-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:53:25 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:53:25 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:53:25 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:53:25 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:53:25 [http-nio-8081-exec-4] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:53:25 [http-nio-8081-exec-4] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:54:55 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:54:55 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:54:55 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:54:55 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:54:55 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:54:55 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:54:55 [http-nio-8081-exec-3] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:54:55 [http-nio-8081-exec-3] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:56:13 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:56:13 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:56:14 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:56:14 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:56:14 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:56:14 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 20:56:14 [http-nio-8081-exec-2] ERROR com.openweb.log.GlobalLogger - error did occur in : getEmployees exception was null
+2018-02-24 20:56:14 [http-nio-8081-exec-2] ERROR com.openweb.log.GlobalLogger - error did occur in : indexPage exception was null
+2018-02-24 20:57:35 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 4904 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-24 20:57:35 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-24 20:57:35 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-24 20:57:39 [main] INFO  com.openweb.app.WebAppLauncher - Started WebAppLauncher in 5.233 seconds (JVM running for 5.781)
+2018-02-24 20:57:47 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:57:47 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:57:48 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 20:57:48 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 20:57:48 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 20:57:48 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:00:01 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:00:01 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:00:01 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:00:01 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:03:02 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:03:02 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:03:02 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:03:02 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:03:03 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:03:03 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:03:03 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:03:03 [http-nio-8081-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:03:07 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:03:07 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:03:08 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:03:08 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:03:08 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:03:08 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:06:44 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:44 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:44 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:44 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:44 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:06:44 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:06:45 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:45 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:45 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:45 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:45 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:06:45 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:06:45 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:45 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:06:46 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:46 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:46 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:46 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:46 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:06:46 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:06:46 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:46 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:06:46 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:07:35 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:07:35 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:07:36 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:07:36 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:07:36 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:07:36 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:13:22 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:13:22 [http-nio-8081-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:13:23 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:13:23 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:13:23 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:13:23 [http-nio-8081-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:13:45 [http-nio-8081-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:13:45 [http-nio-8081-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:13:45 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:13:45 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:13:45 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:13:45 [http-nio-8081-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:14:56 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:14:56 [http-nio-8081-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:14:56 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:14:56 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:14:56 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:14:56 [http-nio-8081-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-24 21:15:05 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:15:05 [http-nio-8081-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:15:06 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-24 21:15:06 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-24 21:15:06 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-24 21:15:06 [http-nio-8081-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:49:26 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 18544 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-25 11:49:26 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-25 11:49:26 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-25 11:50:32 [main] INFO  com.openweb.app.WebAppLauncher - Starting WebAppLauncher on mo-B5400 with PID 18596 (started by mo in /media/mo/Work/new workspace/open_task)
+2018-02-25 11:50:32 [main] DEBUG com.openweb.app.WebAppLauncher - Running with Spring Boot v1.4.7.RELEASE, Spring v4.3.9.RELEASE
+2018-02-25 11:50:32 [main] INFO  com.openweb.app.WebAppLauncher - No active profile set, falling back to default profiles: default
+2018-02-25 11:50:46 [main] INFO  com.openweb.app.WebAppLauncher - Started WebAppLauncher in 16.443 seconds (JVM running for 18.049)
+2018-02-25 11:51:26 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:51:26 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:51:31 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@1c444baa, com.openweb.datatransferobject.EmployeeDTO@27bec226, com.openweb.datatransferobject.EmployeeDTO@4ce427f6, com.openweb.datatransferobject.EmployeeDTO@4c151819, com.openweb.datatransferobject.EmployeeDTO@7232132a, com.openweb.datatransferobject.EmployeeDTO@23cc40b8, com.openweb.datatransferobject.EmployeeDTO@4e7a08a0, com.openweb.datatransferobject.EmployeeDTO@2a4b04a6, com.openweb.datatransferobject.EmployeeDTO@4802f986]]
+2018-02-25 11:52:19 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:19 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:52:21 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@68af336c, com.openweb.datatransferobject.EmployeeDTO@616dce1f, com.openweb.datatransferobject.EmployeeDTO@590d1be4, com.openweb.datatransferobject.EmployeeDTO@1925b838, com.openweb.datatransferobject.EmployeeDTO@880cc23, com.openweb.datatransferobject.EmployeeDTO@792e61a, com.openweb.datatransferobject.EmployeeDTO@36710f37, com.openweb.datatransferobject.EmployeeDTO@22195b9, com.openweb.datatransferobject.EmployeeDTO@cceb00a]]
+2018-02-25 11:52:23 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:23 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:52:23 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@4b73d29f, com.openweb.datatransferobject.EmployeeDTO@6857eba, com.openweb.datatransferobject.EmployeeDTO@7af21d36, com.openweb.datatransferobject.EmployeeDTO@7eeeefb8, com.openweb.datatransferobject.EmployeeDTO@2b5c2dd0, com.openweb.datatransferobject.EmployeeDTO@681f6af, com.openweb.datatransferobject.EmployeeDTO@6c7050e4, com.openweb.datatransferobject.EmployeeDTO@65eae1fd, com.openweb.datatransferobject.EmployeeDTO@2f12723d]]
+2018-02-25 11:52:24 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:24 [http-nio-8080-exec-6] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:24 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:24 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:24 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:52:24 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:24 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:52:24 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:24 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:24 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:25 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:52:25 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:52:25 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:52:25 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@72203545, com.openweb.datatransferobject.EmployeeDTO@7e6aa908, com.openweb.datatransferobject.EmployeeDTO@1fe648a8, com.openweb.datatransferobject.EmployeeDTO@c18e49b, com.openweb.datatransferobject.EmployeeDTO@7f617240, com.openweb.datatransferobject.EmployeeDTO@5468a64d, com.openweb.datatransferobject.EmployeeDTO@79661760, com.openweb.datatransferobject.EmployeeDTO@329118eb, com.openweb.datatransferobject.EmployeeDTO@46968f8b]]
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:52:25 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@3b608fde, com.openweb.datatransferobject.EmployeeDTO@19637d9a, com.openweb.datatransferobject.EmployeeDTO@2f6495cc, com.openweb.datatransferobject.EmployeeDTO@66abe227, com.openweb.datatransferobject.EmployeeDTO@590a8f53, com.openweb.datatransferobject.EmployeeDTO@5b87b645, com.openweb.datatransferobject.EmployeeDTO@50c6920c, com.openweb.datatransferobject.EmployeeDTO@6945f8e9, com.openweb.datatransferobject.EmployeeDTO@64b89285]]
+2018-02-25 11:52:26 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:26 [http-nio-8080-exec-10] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:52:26 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@1acdff86, com.openweb.datatransferobject.EmployeeDTO@4c87e2e5, com.openweb.datatransferobject.EmployeeDTO@62101bcd, com.openweb.datatransferobject.EmployeeDTO@1d9fa75c, com.openweb.datatransferobject.EmployeeDTO@685b4aa6, com.openweb.datatransferobject.EmployeeDTO@1b381d82, com.openweb.datatransferobject.EmployeeDTO@7914b35b, com.openweb.datatransferobject.EmployeeDTO@19d15e62, com.openweb.datatransferobject.EmployeeDTO@2b6d2984]]
+2018-02-25 11:57:22 [http-nio-8080-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:22 [http-nio-8080-exec-2] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:57:22 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@575d13da, com.openweb.datatransferobject.EmployeeDTO@1ec9c346, com.openweb.datatransferobject.EmployeeDTO@24a5c634, com.openweb.datatransferobject.EmployeeDTO@56bdeffc, com.openweb.datatransferobject.EmployeeDTO@6941e532, com.openweb.datatransferobject.EmployeeDTO@3942c8af, com.openweb.datatransferobject.EmployeeDTO@335c2dd5, com.openweb.datatransferobject.EmployeeDTO@a27e64d, com.openweb.datatransferobject.EmployeeDTO@6c29ea4e]]
+2018-02-25 11:57:23 [http-nio-8080-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:23 [http-nio-8080-exec-3] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:57:23 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@45a99a3, com.openweb.datatransferobject.EmployeeDTO@a9d7758, com.openweb.datatransferobject.EmployeeDTO@ea2f2d3, com.openweb.datatransferobject.EmployeeDTO@4ba07d63, com.openweb.datatransferobject.EmployeeDTO@1b676235, com.openweb.datatransferobject.EmployeeDTO@7aa1f1b6, com.openweb.datatransferobject.EmployeeDTO@638cb05b, com.openweb.datatransferobject.EmployeeDTO@2b8f822c, com.openweb.datatransferobject.EmployeeDTO@bd92ba2]]
+2018-02-25 11:57:23 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:23 [http-nio-8080-exec-8] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@c4dbf1, com.openweb.datatransferobject.EmployeeDTO@403082f4, com.openweb.datatransferobject.EmployeeDTO@2fd53c78, com.openweb.datatransferobject.EmployeeDTO@7c0880bd, com.openweb.datatransferobject.EmployeeDTO@5a35d79e, com.openweb.datatransferobject.EmployeeDTO@1e56c90e, com.openweb.datatransferobject.EmployeeDTO@18661040, com.openweb.datatransferobject.EmployeeDTO@20d36699, com.openweb.datatransferobject.EmployeeDTO@542ecc3a]]
+2018-02-25 11:57:24 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:24 [http-nio-8080-exec-7] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:57:24 [http-nio-8080-exec-4] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@357f120f, com.openweb.datatransferobject.EmployeeDTO@7ce9eb31, com.openweb.datatransferobject.EmployeeDTO@ec2d462, com.openweb.datatransferobject.EmployeeDTO@4f455a15, com.openweb.datatransferobject.EmployeeDTO@2e7c698, com.openweb.datatransferobject.EmployeeDTO@31640596, com.openweb.datatransferobject.EmployeeDTO@299db61c, com.openweb.datatransferobject.EmployeeDTO@4cedd4c8, com.openweb.datatransferobject.EmployeeDTO@708218cb]]
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:24 [http-nio-8080-exec-1] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:57:24 [http-nio-8080-exec-9] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@209dbfe8, com.openweb.datatransferobject.EmployeeDTO@912dc4, com.openweb.datatransferobject.EmployeeDTO@5b8f0572, com.openweb.datatransferobject.EmployeeDTO@71770d28, com.openweb.datatransferobject.EmployeeDTO@3cd88e11, com.openweb.datatransferobject.EmployeeDTO@35ae7b43, com.openweb.datatransferobject.EmployeeDTO@16295c11, com.openweb.datatransferobject.EmployeeDTO@5f7e1db1, com.openweb.datatransferobject.EmployeeDTO@272ea849]]
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : indexPage
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : []
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getEmployees
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : readJSONStringFromURL
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [http://sys4.open-web.nl/employees.json]
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getObjectfromJson
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [{
+  "employees": [
+    {
+      "name": "Omar Ras",
+      "role": "Scrum Master",
+      "bio": "My name is Omar and I’m an Agile Project Manager and Scrum Master that lives and breathes Agile. In addition, I’m experienced in E-commerce and like to be as much all-round as possible. I enjoy helping teams to achieve their goals and have fun doing so. In the past, I worked with the founders of Open Web and I am enjoying working with them again. When I’m not working, I enjoy spending quality time with my family and friends.",
+      "skills": ["scrum"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/omar.jpg"
+    },
+    {
+      "name": "Ebrahim Aharpour",
+      "role": "Java Developer",
+      "bio": "My name is Ebrahim and I’m an experienced Java developer with a thrust for learning and a passion for latest technology. I’m a firm believer of open source and have a long history of contributing to the open source community. I believe in the virtue of knowledge sharing and strive to create an atmosphere where people are passionate about technology and share their ideas, visions and aspiration.",
+      "skills": ["java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/ebrahim.jpg"
+    },
+    {
+      "name": "Joost",
+      "role": "Hippo Developer",
+      "bio": "My name is Joost and I am a Hippo developer at Open Web. I'm a positive person and I love to contribute in getting positivity out everything. That’s why it was an easy choice to join Open Web. In addition to it being a logical step in my career, my colleagues are perfect consulting partners concerning innovations and personal interests. Moreover, I can make a good contribute to the growth of the company.\\nI am interested in the spiritual side of life and am involved with Reiki. This also helps me in my work. The hippo CMS has little secrets for me, as I have witnessed Hippo 7’s birth and have been constantly involved with Hippo projects ever since.\\nI do not give up very easily; I am effective in finding problem causes in order to find the best way to solve them. This helps me debugging code but also with other elements of a project, where I keep a balance between priority, profit and costs.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/joost.jpg"
+    },
+    {
+      "name": "Gridi Serbo",
+      "role": "Hippo Developer",
+      "bio": "My name is Gridi and I am employee \"001\" of Open Web. I am a Java software developer that has fallen in love with Hippo CMS since the first day.\\nAfter few years of great co-working experience with the founders of this company, I had no doubts about the success of the new adventure and joined Open Web immediately after its foundation.\\nWhen I am not playing with Hippo, I cultivate my two main passions, opera music and books on history. I also like playing strategy games and this has put me in optimization mode for every task I carry out, functionality I implement or problem I solve.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/gridi.jpg"
+    },
+    {
+      "name": "Matthijs Tolkamp",
+      "role": "Hippo Developer",
+      "bio": "My name is Matthijs and I’m a Java software developer who has extensive experience with implementations of Hippo. I have been a valuable team player at every project I have done caused my pragmatic way of working. Starting at Open Web was an easy choice for me because it's an environment where I can learn a lot from my fellow colleagues and also have the opportunity to build a really small company from the ground up. Being able to share knowledge between such a close group of coworkers has been the main reason for me to start at Open Web.\\nI love puzzles of any kind and trying to find a clever way to solve them. This is reflected in how I write Javacode, but also in my personal life where I love to play any kind of game. When I am not busy trying to demolish other people with board games, I act on stage with my own theater company or I read fantasy novels.",
+      "skills": ["hippo", "java"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/matthijs.jpg"
+    },
+    {
+      "name": "Wouter Spaak",
+      "role": "Front-end Developer",
+      "bio": "My name is Wouter and I work as a front-end developer. I like it when things are beautiful and work flawless and intuitively. As front-end developer at Open Web, I feel like I’ve done my job well when a user utilizes the software with a smile. At Open Web, I have the possibility to work with my colleagues on complex systems. Working together to find solutions that work and feel perfect, is something I find very challenging.\\nIn my free time, I like cooking for friends and enjoying good wine with them. I also like to read literature and you'll find me visiting museums and galleries.",
+      "skills": ["javascript", "html", "css", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/wouter.jpg"
+    }, {
+      "name": "Levente Bokor",
+      "role": "CEO",
+      "bio": "My name is Levente and I am one of Open Web’s founders. After almost 20 years of being involved with information technology, I still think that the more new things I know of, the more I realize what I don’t know yet.\\nI like to set goals and try my utmost to reach these. Starting my own business has been om my to-do list for too long. With my technical background, I think in terms of solutions rather than problems.\\nAs a father of four very sweet girls, I try to find the balance between my company and my family. During running, I try to find the limits of my body. And if I have more free time, it happens too little, I also like to play the drums.",
+      "skills": [],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/levente.jpg"
+    }, {
+      "name": "Cees Huisman",
+      "role": "Sales & Marketing",
+      "bio": "I'm Cees and I've been part of the great Open Web team since April 2016. Being a communicator/networker/museologist pur sang, specialised in interface/media design and 'equipped' with a fast creative mind I'm able to get 'under your skin' to understand your quest. In my opinion, sales is listening; more than acting as one can experience too ofte. I'm using my capabilities and dedication to support the team of Open Web.\\nAfter being the owner of multimedia company for many years and -sidestep- being a publisher, I've gained much experience in sales and marketing for museums and companies internationaly. In my spare time you will find me visiting museums, driving around in a British classic of looking for vintage three-piece tweeds.",
+      "skills": ["sales", "marketing"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/cees.jpg"
+    }, {
+      "name": "Jon Koops",
+      "role": "Front-end Developer",
+      "bio": "I'm Jon and I'm front-end developer. I am keen on developing fast and intuitive web applications. My greatest reward is finding the right solution to a technical problem. Open Web offers me all options to work on a variety of technical challenges.\\nI spend my spare time reading about technical stuff using blogposts and books. Next I'm a huge science-fiction fan (🖖) and a more that enthoustic gamer.",
+      "skills": ["javascript", "html", "css", "react", "angular", "angularjs"],
+      "profileImage": "https://en.openweb.nl/binaries/teaser/content/gallery/ow/employees/jon.jpeg"
+    }
+  ]
+}, class com.openweb.domainobject.Employees]
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed is : getJson
+2018-02-25 11:57:25 [http-nio-8080-exec-5] INFO  com.openweb.log.GlobalLogger - the method being executed arguments are : [[com.openweb.datatransferobject.EmployeeDTO@70e2e566, com.openweb.datatransferobject.EmployeeDTO@2cb01e4a, com.openweb.datatransferobject.EmployeeDTO@3f0177f0, com.openweb.datatransferobject.EmployeeDTO@7de2489d, com.openweb.datatransferobject.EmployeeDTO@1acc5b92, com.openweb.datatransferobject.EmployeeDTO@362244cf, com.openweb.datatransferobject.EmployeeDTO@2280b0c, com.openweb.datatransferobject.EmployeeDTO@6de11d74, com.openweb.datatransferobject.EmployeeDTO@1509db91]]
